@@ -22,6 +22,3 @@ function calcularPromedioConBucleFor(arr) {
 }
 const numero = [10, 20, 30, NaN, 40 , 50 ,"10",30, "no",(()=>[]), false, "ok", "bien"];
 console.log(calcularPromedioConBucleFor(numero)); 
-
-
-
